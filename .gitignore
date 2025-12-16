@@ -12,3 +12,10 @@
 # Python
 __pycache__/
 .venv/
+
+tune_data_*.jsonl
+*.jsonl
+.env
+__pycache__/
+.venv/
+.ipynb_checkpoints/
