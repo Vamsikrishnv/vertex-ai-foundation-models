@@ -2,20 +2,14 @@
 *.jsonl
 *.csv
 *.parquet
+tune_data_*.jsonl
 
 # Secrets
 .env
-
-# Jupyter
-.ipynb_checkpoints/
 
 # Python
 __pycache__/
 .venv/
 
-tune_data_*.jsonl
-*.jsonl
-.env
-__pycache__/
-.venv/
+# Jupyter
 .ipynb_checkpoints/
