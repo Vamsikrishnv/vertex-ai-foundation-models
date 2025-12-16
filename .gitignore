@@ -1,4 +1,14 @@
-.venv/
+# Training / evaluation data
+*.jsonl
+*.csv
+*.parquet
+
+# Secrets
 .env
-__pycache__/
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Python
+__pycache__/
+.venv/
